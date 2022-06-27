@@ -3,7 +3,7 @@ Assignment for Dapp1
 Submitted by
 ## Gulshan Jubaed Prince ##
 ### Student ID: 101398421 ###
-### gulshan.jubaedorince@georgebrown.ca ###
+### gulshan.jubaedprince@georgebrown.ca ###
 ## Parth Govindbhai Ilasariya ##
 ### Student ID: 101393950 ###
 ### parthgovindbhai.ilasariya@georgebrown.ca ###
